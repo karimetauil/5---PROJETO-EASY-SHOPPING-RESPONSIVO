@@ -1,4 +1,4 @@
-<h1 align="center"> Easy Shopping - PC</h1>
+<h1 align="center"> Projeto Easy Shopping Responsivo </h1>
 
 <h4 align="center"> Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack <a href="https://rodolfomori.com.br/devclub" target="_blank"> Dev Club. </a> </h4>
 
